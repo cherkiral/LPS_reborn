@@ -1,0 +1,20 @@
+export const COLUMNS = [
+    "user_id", "account_id", "dh_serv", "action_type", "event_type",
+    "conversion_type", "aap_id", "te_id", "project_id", "project_name",
+    "channel_id", "channel_name", "campaign_id", "campaign_name",
+    "site_id", "site_name", "insertion_id", "insertion_name",
+    "creative_id", "creative_name", "creative_label_id", "creative_label_label",
+    "conversion_page_id", "conversion_page_name", "item_number",
+    "client_id", "order_number", "revenue", "optional_parameter",
+    "is_client", "properties", "keyword", "ads", "website", "network",
+    "visibility", "format", "url_of_page", "origin_source", "user_agent",
+    "custom_value", "last_action_date_hour", "campaign_label_id",
+    "campaign_label_name", "brand_and_product_id", "brand_and_product_name",
+    "adnetwork_id", "adnetwork_name", "adspace_id", "adspace_name",
+    "insertion_label_id", "insertion_label_name", "country_id",
+    "country_name", "browser_id", "browser_name", "operating_system_id",
+    "operating_system_name", "device_id", "device_name", "isp_id",
+    "isp_name", "ag_id", "region_id", "region_name", "device_advertising_id",
+    "erid", "subregion_id", "subregion_name", "gdpr", "gdpr_consent",
+    "webo_consent"
+];
