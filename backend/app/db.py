@@ -18,7 +18,7 @@ from fastapi import HTTPException
 #             host='analytics.weborama.io',
 #             port=9440,
 #             user='kchernyak',
-#             password='eVL3qWzuaKpc',
+#             password='',
 #             database='wcm',
 #             secure=True,
 #             verify=False
